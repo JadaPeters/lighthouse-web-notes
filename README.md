@@ -6,4 +6,4 @@
 
 ## Summary
 
-This repository contains all of the notes taken by Jada for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Jada](https://github.com/JadaPeters) for the [Lighthouse Labs](https://www.lighthouselabs.ca/en) Web Development Bootcamp.
